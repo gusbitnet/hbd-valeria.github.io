@@ -1,0 +1,23 @@
+{
+  "greeting": "Holiii",
+  "name": "Vale!",
+  "greetingText": "Me gusta mucho tu nombre <3",
+  "wishText": "Que tengas el mejor día de cumple",
+  "imagePath": "img/vale2.png",
+  "text1": "Es tu cumple!!! :D",
+  "textInChatBox": "Feliz cumpleaños para tiii, wii una año mas de vida mi querida Vale",
+  "sendButtonLabel": "Enviar",
+  "text2": "Se supone que ese mensaje te mandaría y ya",
+  "text3": "Pero después pensé",
+  "text4": "que quería hacer algo",
+  "text4Adjective": "especial",
+  "text5Entry": "Porque,",
+  "text5Content": "Tu eres muy especial",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Feliz cumpleaños!",
+  "outroText": "Bueno ahora dime que te parecio este mensaje",
+  "replayText": "O dale click por si quieres verlo de nuevo",
+  "outroSmiley": ":)"
+}
